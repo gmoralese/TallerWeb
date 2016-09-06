@@ -1,0 +1,64 @@
+.text-center{
+	text-align: center;
+
+}
+
+.text-uppercase{
+	text-transform: uppercase;
+
+}
+
+.text-warning{
+	color: #d32f2f;
+
+}
+
+.img-responsive{
+	width: 100%;
+	margin: 0 auto;
+
+}
+
+.no-link-style a{
+	text-decoration: none;
+	color: #d32f2f;
+}
+
+.no-link-style a:hover{
+	text-decoration: none;
+}
+
+.fondo-oscuro{
+	background-color: #2D4E13;
+}
+
+.img-perfil{
+	width: 70%;
+	margin: 0 auto;
+	border-radius: 50%;
+
+}
+
+.text-white{
+ 	color:FFFFFF;
+
+}
+.text-gray{
+ 	color:534F4F;
+}
+
+.cortar{
+  width:100px;
+  height:100px;
+  padding:20px;
+  border:0px solid blue;
+  text-overflow:ellipsis;
+  white-space:nowrap; 
+  overflow:hidden; 
+}
+.cortar:hover {
+  width: auto;
+  white-space: initial;
+  overflow:visible;
+  cursor: pointer;
+}
